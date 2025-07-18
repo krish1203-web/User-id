@@ -19,6 +19,13 @@
         "password": "15days",
         "expirydate": "22-09-2025",
         "Allowoffline": true
-    }   
+    },
+    {
+        "device_id": "b5055c8c1f6898e0",
+        "username": "Naman",
+        "password": "661413",
+        "expirydate": "22-07-2025",
+        "Allowoffline": true
+    }
     
 ]
